@@ -1,0 +1,3 @@
+﻿GET https://localhost:7274/api/work-items/41458/reporting-info
+###
+GET https://localhost:7274/api/work-items/37373/remaining-by-team?includeTasksInResponse=false
